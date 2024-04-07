@@ -31,7 +31,6 @@ CollegeConnect/settings.py
 user/social_auth.py
 
 # ignore python virtual env
-venv
-
+majorpro
 
 
